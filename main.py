@@ -40,7 +40,7 @@ print(temp_in_f)
 
 # Create a dataframe from scratch
 data_dict = {
-    "students" : ["Nishant", "Niyanta", "Anjali"],
+    "students" : ["ABC", "XYZ", "Nishant"],
     "score" : [76, 56, 65]
 }
 
