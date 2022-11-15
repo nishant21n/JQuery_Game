@@ -1,0 +1,27 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 1px;
+  border: 4px solid black;
+  border-radius: 50%;
+
+}
+
+#drag button{
+  border-radius: 10%;
+  background-color: #78c421;
+  font-size: 3em;
+}
+
+.container h1{
+  font-weight: bold;
+}
+
+#note{
+  color: #e33d69;
+  font-weight: bold;
+  background-color: #f9ffa1;
+  margin-left: 21%;
+  margin-right: 21%;
+}
